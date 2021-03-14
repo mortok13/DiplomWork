@@ -20,3 +20,5 @@ D:\DiplomWork\DiplomWork\DiplomWork\bin\Debug\netcoreapp3.1\runtimes\unix\lib\ne
 D:\DiplomWork\DiplomWork\DiplomWork\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
 D:\DiplomWork\DiplomWork\DiplomWork\obj\Debug\netcoreapp3.1\DiplomWork.csproj.CoreCompileInputs.cache
 D:\DiplomWork\DiplomWork\DiplomWork\obj\Debug\netcoreapp3.1\DiplomWork.csproj.CopyComplete
+D:\DiplomWork\DiplomWork\DiplomWork\obj\Debug\netcoreapp3.1\DiplomWork.Migrations.initialCreate.resources
+D:\DiplomWork\DiplomWork\DiplomWork\obj\Debug\netcoreapp3.1\DiplomWork.csproj.GenerateResource.cache
