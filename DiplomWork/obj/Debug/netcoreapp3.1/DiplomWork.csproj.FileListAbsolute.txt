@@ -1,0 +1,13 @@
+D:\DiplomWork\DiplomWork\DiplomWork\bin\Debug\netcoreapp3.1\DiplomWork.exe
+D:\DiplomWork\DiplomWork\DiplomWork\bin\Debug\netcoreapp3.1\DiplomWork.deps.json
+D:\DiplomWork\DiplomWork\DiplomWork\bin\Debug\netcoreapp3.1\DiplomWork.runtimeconfig.json
+D:\DiplomWork\DiplomWork\DiplomWork\bin\Debug\netcoreapp3.1\DiplomWork.runtimeconfig.dev.json
+D:\DiplomWork\DiplomWork\DiplomWork\bin\Debug\netcoreapp3.1\DiplomWork.dll
+D:\DiplomWork\DiplomWork\DiplomWork\bin\Debug\netcoreapp3.1\DiplomWork.pdb
+D:\DiplomWork\DiplomWork\DiplomWork\obj\Debug\netcoreapp3.1\DiplomWork.csprojAssemblyReference.cache
+D:\DiplomWork\DiplomWork\DiplomWork\obj\Debug\netcoreapp3.1\DiplomWork.csproj.CoreCompileInputs.cache
+D:\DiplomWork\DiplomWork\DiplomWork\obj\Debug\netcoreapp3.1\DiplomWork.AssemblyInfoInputs.cache
+D:\DiplomWork\DiplomWork\DiplomWork\obj\Debug\netcoreapp3.1\DiplomWork.AssemblyInfo.cs
+D:\DiplomWork\DiplomWork\DiplomWork\obj\Debug\netcoreapp3.1\DiplomWork.dll
+D:\DiplomWork\DiplomWork\DiplomWork\obj\Debug\netcoreapp3.1\DiplomWork.pdb
+D:\DiplomWork\DiplomWork\DiplomWork\obj\Debug\netcoreapp3.1\DiplomWork.genruntimeconfig.cache
