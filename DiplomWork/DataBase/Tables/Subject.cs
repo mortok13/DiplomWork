@@ -5,12 +5,9 @@ using System.ComponentModel.DataAnnotations;
 
 namespace DiplomWork.DataBase.Tables
 {
-   public class Answer
+    public class Subject
     {
         public int Id { get; set; }
-        public string Text { get; set; }
-        public string Rightanswer { get; set; }
-
-        public Question Question { get; set; }
+        [Required] public string Name { get; set; }
     }
 }
