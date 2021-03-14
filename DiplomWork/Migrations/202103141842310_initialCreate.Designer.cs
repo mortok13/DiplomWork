@@ -13,7 +13,7 @@ namespace DiplomWork.Migrations
         
         string IMigrationMetadata.Id
         {
-            get { return "202103141743118_initialCreate"; }
+            get { return "202103141842310_initialCreate"; }
         }
         
         string IMigrationMetadata.Source

@@ -17,6 +17,5 @@ namespace DiplomWork.DataBase
         public DbSet<Value> Values { get; set; }
         public DbSet<Subject> Subjects { get; set; }
         public DbSet<Group> Groups { get; set; }
-        public DbSet<Grade> Grades { get; set; }
     }
 }
