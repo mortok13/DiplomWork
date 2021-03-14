@@ -16,7 +16,6 @@ namespace DiplomWork
         {
             InitializeComponent();
 
-
         }
 
     }
